@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-video: <source src="http://s3-eu-west-1.amazonaws.com/docplanner.com/video/timelapse.mp4" type="video/mp4">
+  background-image: url('../img/header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
